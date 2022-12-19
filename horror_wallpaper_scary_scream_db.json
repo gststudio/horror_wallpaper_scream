@@ -1,0 +1,541 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Scary Wallpaper",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Horror Background",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Scream Wallpaper",
+      "image": "file:///android_asset/image/car.jpg"
+
+    },
+	,
+    {
+      "id": 4,
+      "name_category": "Creepy Wallpaper",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 1",
+      "image":"https://wallpaperaccess.com/full/1727298.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 2",
+      "image": "https://wallpapers.com/images/hd/joker-creepy-halloween-iphone-yjrepvcbokrklzmv.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 3",
+      "image":"https://iphoneswallpapers.com/wp-content/uploads/2020/11/Pennywise-Clown.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 4",
+      "image":"https://iphoneswallpapers.com/wp-content/uploads/2019/05/Pennywise-IT-Chapter-2-iPhone-Wallpaper.jpg"
+    },
+	{
+      "id":5,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 5",
+      "image":"https://images.hdqwalls.com/download/pennywise-wu-1125x2436.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 6",
+      "image": "https://www.nawpic.com/media/2020/pennywise-nawpic-25.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 7",
+      "image":"https://www.teahub.io/photos/full/41-417830_clown-face-creepy-minimal-wallpaper-creepy-wallpaper-iphone.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 8",
+      "image":"https://iphoneswallpapers.com/wp-content/uploads/2020/10/Halloween-Clown-iPhone-Wallpaper.jpg"
+    },
+	{
+      "id":9,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 9",
+      "image":"https://i.pinimg.com/originals/0b/2d/a9/0b2da947063e72dbd734651c60435bc4.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 10",
+      "image": "https://w0.peakpx.com/wallpaper/181/545/HD-wallpaper-spook-deadly-horror-spooky-horror-nun.jpg"
+    },
+	{
+      "id":11,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 11",
+      "image":"https://wallpapercave.com/wp/wp9499528.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 12",
+      "image": "https://www.kolpaper.com/wp-content/uploads/2020/09/Horror-Wallpaper-for-Iphone.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 13",
+      "image":"https://images.wallpapersden.com/image/download/scary-skulls_a2tnaGmUmZqaraWkpJRmZW1lrWdpZWU.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 14",
+      "image":"https://images.wallpapersden.com/image/download/smoky-skull_bGVmZmeUmZqaraWkpJRmZW1lrWdpZWU.jpg"
+    },
+	{
+      "id":15,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 15",
+      "image":"https://www.enwallpaper.com/wp-content/uploads/2066605.jpg"
+    },
+    {
+      "id": 16,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 16",
+      "image": "https://images.wallpapersden.com/image/download/scary-joker-minimal-4k_a25obG6UmZqaraWkpJRmZmdqrWdpaGs.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 17",
+      "image":"http://m.myipwallpapers.com/wp-content/uploads/2022/09/Horror-iPhone-11-Pro-Wallpaper.jpeg"
+    },
+    {
+      "id":18,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 18",
+      "image":"https://cdn.wallpapersafari.com/67/28/OVEJiL.jpg"
+    },
+	{
+      "id":19,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 19",
+      "image":"https://i.pinimg.com/originals/a7/e4/00/a7e400003be8e71db08aadae1736a417.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 20",
+      "image": "https://www.enwallpaper.com/wp-content/uploads/2022/10/dead-by-daylight-ghostface-dlc-10-1280x2120-1.jpg"
+    },
+	{
+      "id":21,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 21",
+      "image":"https://www.nawpic.com/media/2020/ghostface-nawpic-22-e1664391136683.jpg"
+    },
+    {
+      "id": 22,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 22",
+      "image": "https://i.pinimg.com/originals/56/7d/76/567d7658a825b67f88dff8121998b2ce.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 23",
+      "image":"https://www.nawpic.com/media/2020/ghostface-nawpic-3.webp"
+    },
+    {
+      "id":24,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 24",
+      "image":"https://w0.peakpx.com/wallpaper/518/1012/HD-wallpaper-horror-conjuring-church-conjuring-creepy-cross-evil-god-horror-movie-scary-spooky.jpg"
+    },
+	{
+      "id":25,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 25",
+      "image":"https://cdn.wallpapersafari.com/62/60/P36BDx.jpg"
+    },
+    {
+      "id": 26,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 26",
+      "image": "https://w0.peakpx.com/wallpaper/3/209/HD-wallpaper-halloween-red-black-ar-31-st-october-autumn-eve-festive-holiday-horror-october-red-and-black-scary.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 27",
+      "image":"https://wallpapercave.com/wp/wp4831825.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 28",
+      "image":"https://cdn.wallpapersafari.com/48/52/sQGSNr.jpg"
+    },
+	{
+      "id":29,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 29",
+      "image":"https://w0.peakpx.com/wallpaper/400/197/HD-wallpaper-halloween-scarecrow-dark-galaxy-green-note-10-pumpkins-samsung-skull-sky.jpg"
+    },
+    {
+      "id": 30,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 30",
+      "image": "https://i.pinimg.com/originals/22/fd/11/22fd11aa6b2c06eb93508a9c8edb9533.jpg"
+    },
+	{
+      "id":31,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 31",
+      "image":"https://i.pinimg.com/originals/1a/0d/2a/1a0d2a1df303a3f4f871a25641369526.jpg"
+    },
+    {
+      "id": 32,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 32",
+      "image": "https://w0.peakpx.com/wallpaper/141/446/HD-wallpaper-scary-clown-fire-horror.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 33",
+      "image":"https://www.teahub.io/photos/full/6-60448_it-phone-wallpaper-pennywise-it-movie-poster.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 34",
+      "image":"https://www.teahub.io/photos/full/76-763549_pennywise-wallpaper-for-iphone-5.jpg"
+    },
+	{
+      "id":35,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 35",
+      "image":"https://s2.best-wallpaper.net/wallpaper/iphone/1902/Demon-horror-art-picture_iphone_1080x1920.jpg"
+    },
+    {
+      "id": 36,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 36",
+      "image": "https://cdn.wallpapersafari.com/89/71/9U8wjR.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 37",
+      "image":"https://w0.peakpx.com/wallpaper/1009/303/HD-wallpaper-death-angel-grim-horror-note-8-reaper.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 38",
+      "image":"https://w0.peakpx.com/wallpaper/324/448/HD-wallpaper-reaper-grim-reaper-skull.jpg"
+    },
+	{
+      "id":39,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 39",
+      "image":"https://images.wallpapersden.com/image/download/grim-reaper-artwork_bGVoaW2UmZqaraWkpJRmZ2lnrWdrbW0.jpg"
+    },
+    {
+      "id": 40,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 40",
+      "image": "https://iphone-wallpaper-hd.art/wp-content/uploads/9334.jpg"
+    },
+	{
+      "id":41,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 41",
+      "image":"https://cdn.wallpapersafari.com/95/26/oxNkRV.jpg"
+    },
+    {
+      "id": 42,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 42",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b7388390-25d5-4481-9694-e0d2db4a73ec/d7q1qf5-5a6fc684-462d-43b3-82d1-5ff64054dcc1.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3Mzg4MzkwLTI1ZDUtNDQ4MS05Njk0LWUwZDJkYjRhNzNlY1wvZDdxMXFmNS01YTZmYzY4NC00NjJkLTQzYjMtODJkMS01ZmY2NDA1NGRjYzEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.j07IOc0YhtrgRAvI0E53CYP6iQ0mS-d1mf0BIuMUfk4"
+    },
+    {
+      "id":43,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 43",
+      "image":"https://wallpapercave.com/wp/wp10005132.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 44",
+      "image":"https://cdn.wallpapersafari.com/13/8/dcEYkM.jpg"
+    },
+	{
+      "id":45,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 45",
+      "image":"https://wallpapercave.com/wp/wp5438387.jpg"
+    },
+    {
+      "id": 46,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 46",
+      "image": "https://i.pinimg.com/originals/27/9d/ed/279ded92256a59d5b4ba584d91a3632f.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 47",
+      "image":"https://wallpapercave.com/wp/wp5522374.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 48",
+      "image":"https://i.pinimg.com/originals/99/65/2c/99652cc664bc23070152b4769db5e67b.jpg"
+    },
+	{
+      "id":49,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 49",
+      "image":"https://wallpaperaccess.com/full/802728.jpg"
+    },
+    {
+      "id": 50,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 50",
+      "image": "https://www.nawpic.com/media/2020/michael-myers-nawpic-23.jpg"
+    },
+	{
+      "id":51,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 51",
+      "image":"https://i.pinimg.com/736x/fe/b6/a5/feb6a5f2e9a889f7ba71ce0c3ee44ea8.jpg"
+    },
+    {
+      "id": 52,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 52",
+      "image": "https://w0.peakpx.com/wallpaper/228/1024/HD-wallpaper-skull-fire-man-dark.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 53",
+      "image":"https://wallpaperbat.com/img/199924-creepy-phone-wallpaper-top-free-creepy-phone-background.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 54",
+      "image":"https://www.teahub.io/photos/full/131-1314645_iphone-wallpaper-night-gloomy-horror-house-trees-horror.jpg"
+    },
+	{
+      "id":55,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 55",
+      "image":"https://i.pinimg.com/originals/f4/b7/e6/f4b7e686344725a97765228ef6652a0e.jpg"
+    },
+    {
+      "id": 56,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 56",
+      "image": "https://www.enwallpaper.com/wp-content/uploads/9e106ce87ba077240174d8d7a0cd746c.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 57",
+      "image":"https://w0.peakpx.com/wallpaper/406/855/HD-wallpaper-jason-voorhees-jasonvoorhees.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 58",
+      "image":"https://wallpaperaccess.com/full/179463.jpg"
+    },
+	{
+      "id":59,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 59",
+      "image":"https://i.pinimg.com/originals/1f/62/e3/1f62e303ab4e90d4b351a11a3700e5b3.jpg"
+    },
+    {
+      "id": 60,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 60",
+      "image": "https://i.pinimg.com/originals/3e/04/e0/3e04e003358318a43d6ce2ecd7ef5f92.jpg"
+    },
+	{
+      "id":61,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 61",
+      "image":"https://w0.peakpx.com/wallpaper/1013/327/HD-wallpaper-freddy-krueger-scary-halloween-halloween.jpg"
+    },
+    {
+      "id": 62,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 62",
+      "image": "https://i.pinimg.com/originals/fb/59/4f/fb594f4d8001cef927be2d7a1ce27438.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 63",
+      "image":"https://s0.smartresize.com/wallpaper/547/2/HD-wallpaper-clown-2014-evil-new.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 64",
+      "image":"https://w0.peakpx.com/wallpaper/732/442/HD-wallpaper-punisher-netflix-tv-show.jpg"
+    },
+	{
+      "id":65,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 65",
+      "image":"https://www.teahub.io/photos/full/25-254927_punisher-wallpaper-hd-for-mobile.jpg"
+    },
+    {
+      "id": 66,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 66",
+      "image": "https://i.pinimg.com/originals/a6/5f/89/a65f89c7288542f355e87342a13b4c89.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 67",
+      "image":"https://www.whatspaper.com/wp-content/uploads/2021/10/horror-wallpaper-whatspaper-2.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 68",
+      "image":"https://w0.peakpx.com/wallpaper/721/320/HD-wallpaper-scary-black-dark-horror-teeth-yellow-eyes.jpg"
+    },
+	{
+      "id":69,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 69",
+      "image":"https://i.pinimg.com/736x/0a/fc/07/0afc07ac90e9271ddc3fe21e41b61e97.jpg"
+    },
+    {
+      "id": 70,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 70",
+      "image": "https://wallpaperaccess.com/full/2064028.jpg"
+    },
+	{
+      "id":71,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 71",
+      "image":"https://wallpaperaccess.com/full/652297.jpg"
+    },
+    {
+      "id": 72,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 72",
+      "image": "https://i.pinimg.com/736x/53/69/78/536978e1c6292e488388823f8fecf796.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 73",
+      "image":"https://i.pinimg.com/originals/a4/8e/da/a48edae77a4c30a886c51462e445133a.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 74",
+      "image":"https://i.pinimg.com/originals/66/f5/27/66f527cc676fc9998323daad5782d596.jpg"
+    },
+	{
+      "id":75,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 75",
+      "image":"https://wallpaper.dog/large/20390809.jpg"
+    },
+    {
+      "id": 76,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 76",
+      "image": "https://wallpapercave.com/wp/wp5522228.jpg"
+    },
+    {
+      "id":77,
+      "name_category": "Scream Wallpaper",
+      "title":"scary horror wallpaper 77",
+      "image":"https://i.pinimg.com/originals/90/ab/2c/90ab2c16712a5b61a6a3edbbc8ccc003.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "Creepy Wallpaper",
+      "title":"scary horror wallpaper 78",
+      "image":"https://wallpaperaccess.com/full/652314.jpg"
+    },
+	{
+      "id":79,
+      "name_category": "Scary Wallpaper",
+      "title":"scary horror wallpaper 79",
+      "image":"https://www.wallpapertip.com/wmimgs/153-1537508_cool-image-iphone-wallpaper-army-wallpaper-hd-iphone.jpg"
+    },
+    {
+      "id": 80,
+      "name_category": "Horror Background",
+      "title": "scary horror wallpaper 80",
+      "image": "https://i.pinimg.com/736x/f7/af/4b/f7af4b87b130bf3c3ab4fd7ca6828930.jpg"
+    }
+  ]
+}
